@@ -1,3 +1,3 @@
 # maven-project
-Hi Good Mrng
+Hi Good Mrngs
 Simple Maven Project
